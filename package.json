@@ -13,6 +13,7 @@
     "@liveblocks/node": "^1.9.6",
     "@liveblocks/react": "^1.9.6",
     "@liveblocks/react-comments": "^1.9.6",
+    "encoding": "^0.1.13",
     "next": "^13.4.16",
     "openai": "^4.21.0",
     "react": "^18.2.0",
